@@ -8,7 +8,7 @@ A client is interested in using Kickstarter, a crowd funded project platform, to
 ## Analysis and Challenges
 Over 4000 Kickstarter Projects from around the globe were analyzed using various Excel functions to help better understand what makes a project successful.  The data included projects of various categories (movies, music, and games).  The focus of this analysis was on plays performed in the U.S. 
 
-The Excel workbook used to analyze this data can be found at this link: 
+The Excel workbook used to analyze this data can be found at this [LINK](Kickstarter_Challenge20%Copy.zip). 
 
 ### Analysis of Outcomes Based on Launch Date
 One part of the analysis performed was to look at the affect that time of year that a project was launched on had on that outcome.  As demonstrated in the image below,  an increased success rate is seen from May through July with May being the peak.  The number of failed projects stays fairly consistent throughout the year with an average of 41.1 failed projects per month. 
